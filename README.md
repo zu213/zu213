@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zu213&langs_count=10&theme=radical" style="min-width: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zu213&langs_count=10&theme=radical&layout=donut-vertical" style="min-width: 10px;">
     </td>
     <td style="vertical-align: top;">
       <img src="https://top-tracks-omega.vercel.app/api/spotify" style="min-width: 10px;">
