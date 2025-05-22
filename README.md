@@ -2,13 +2,13 @@
 
 ## Product Developer | Web & Native Apps | Interested in Graphics and UX
 
-- Currently learning: AWS, C++, 
-- Technologies & Tools:  
-    - **Frontend:** JavaScript (React, Vue.js, Angular), HTML, CSS, SASS, Tailwind CSS
-    - **Backend:** Node.js, Express
-    - **Native Apps:** Swift, Java/Kotlin
-    - **Database:** MySQL
-    - **Other Tools:** Docker, Git, CI/CD, Figma, Jira
+Technologies & Tools I use:  
+- **Frontend:** JavaScript (React, Vue.js, Angular), HTML, CSS, SASS
+- **Backend:** Node.js, Express, Vercel, PHP
+- **Native Apps:** Swift, SwiftUI, Java/Kotlin
+- **Database:** MySQL
+- **Other languages:** C, C#, C++, Python
+- **Other Tools:** Docker, Git, CI/CD, Figma, Jira
 
 ## My stats
 
