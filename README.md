@@ -2,6 +2,8 @@
 
 ## Product Developer | Web & Native Apps | Interested in Graphics and UX
 
+Run `npx zachupstone` for my digital business card.
+
 Technologies & Tools I use:  
 - **Frontend:** JavaScript (React, Vue.js, Angular), HTML, CSS, SASS
 - **Backend:** Node.js, Express, Vercel, PHP
