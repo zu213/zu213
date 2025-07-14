@@ -1,18 +1,18 @@
-# Zachary Upstone
+# Zach Upstone
 
 ## Product Developer | Web & Native Apps | Interested in Graphics and UX
 
 Run `npx zachupstone` for my digital business card.
 
 Technologies & Tools I use:  
-- **Frontend:** JavaScript (React, Vue.js, Angular), HTML, CSS, SASS
+- **Frontend:** Vue, React, Angular, js, HTML, CSS, SASS
 - **Backend:** Node.js, Express, Vercel, PHP
-- **Native Apps:** Swift, SwiftUI, Java/Kotlin
-- **Database:** MySQL
+- **Native Apps:** ObjC, Swift, SwiftUI, Java, Kotlin
+- **Database:** MySQL, Prisma
 - **Other languages:** C, C#, C++, Python
-- **Other Tools:** Docker, Git, CI/CD, Figma, Jira
+- **Other Tools:** Docker, Git, Bitbucket, Figma, Jira
 
-## My stats
+## My Stats
 
 <table>
   <tr>
