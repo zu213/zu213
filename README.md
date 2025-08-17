@@ -2,12 +2,13 @@
 
 ## Product Developer | Web & Native Apps | Interested in Graphics and UX
 
-Run `npx zachupstone` for my digital business card.
+Run `npx zachupstone` for my digital business card. Find my website <a href='https://zupstn.com/'>here</a>.
 
-Technologies & Tools I use:  
-- **Frontend:** Vue, React, Angular, js, HTML, CSS, SASS
+Technologies & Tools I use:
+
+- **Frontend:** Vue, React, Angular, JavaScript, TypeScript, HTML, CSS, SASS
 - **Backend:** Node.js, Express, Vercel, PHP
-- **Native Apps:** ObjC, Swift, SwiftUI, Java, Kotlin
+- **Native Apps:** Swift, SwiftUI, Objective-C, Java, Kotlin
 - **Database:** MySQL, Prisma
 - **Other languages:** C, C#, C++, Python
 - **Other Tools:** Docker, Git, Bitbucket, Figma, Jira
