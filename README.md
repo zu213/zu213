@@ -6,9 +6,10 @@ Run `npx zachupstone` for my digital business card. Find my website <a href='htt
 
 Technologies & Tools I use:
 
-- **Frontend:** Vue, React, Angular, JavaScript, TypeScript, HTML, CSS, SASS
-- **Backend:** Node.js, Express, Vercel, PHP
 - **Native Apps:** Swift, SwiftUI, Objective-C, Java, Kotlin
+- **Frontend:** Vue, React, Angular, JavaScript, TypeScript, SASS
+- **Backend:** Vercel, PHP, Node.js, Express
+
 - **Database:** MySQL, Prisma
 - **Other languages:** C, C#, C++, Python
 - **Other Tools:** Docker, Git, Bitbucket, Figma, Jira
@@ -18,7 +19,7 @@ Technologies & Tools I use:
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zu213&langs_count=10&theme=radical&layout=donut-vertical" style="min-width: 10px;">
+      <img src="https://github-readme-stats-fcujmofvm-hcaz-enotspus-projects.vercel.app/api/top-langs/?langs_count=10&theme=radical&layout=donut-vertical&username=zu213" style="min-width: 10px;">
     </td>
     <td style="vertical-align: top;">
       <img src="https://top-tracks-omega.vercel.app/api/spotify" style="min-width: 10px;">
