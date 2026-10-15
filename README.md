@@ -1,18 +1,18 @@
 # Zach Upstone
 
-## Product Developer | Web & Native Apps | Interested in Graphics and UX
+## Product Developer |  Native & Web Apps | Interested in Graphics and UX
 
-Run `npx zachupstone` for my digital business card. Find my website <a href='https://zupstn.com/'>here</a>.
+Run `npx zachupstone` for my digital business card. Find my website <a href='https://zachupstone.com/'>here</a>.
 
 Technologies & Tools I use:
 
-- **Native Apps:** Swift, SwiftUI, Objective-C, Java, Kotlin
+- **Native Apps:** Swift, SwiftUI, Objective-C, Kotlin, Java
 - **Frontend:** Vue, React, Angular, JavaScript, TypeScript, SASS
 - **Backend:** Vercel, PHP, Node.js, Express
 
 - **Database:** MySQL, Prisma
 - **Other languages:** C, C#, C++, Python
-- **Other Tools:** Docker, Git, Bitbucket, Figma, Jira
+- **Other Tools:** Docker, Git, Bitbucket, Jira
 
 ## My Stats
 
