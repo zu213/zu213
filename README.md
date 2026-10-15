@@ -19,7 +19,7 @@ Technologies & Tools I use:
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats-fcujmofvm-hcaz-enotspus-projects.vercel.app/api/top-langs/?langs_count=10&theme=radical&layout=donut-vertical&username=zu213" style="min-width: 10px;">
+      <img src="https://github-readme-stats-hcaz-enotspus-projects.vercel.app/api/top-langs/?langs_count=10&theme=radical&layout=donut-vertical&username=zu213" style="min-width: 10px;">
     </td>
     <td style="vertical-align: top;">
       <img src="https://top-tracks-omega.vercel.app/api/spotify" style="min-width: 10px;">
