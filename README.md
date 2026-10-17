@@ -1,18 +1,20 @@
 # Zach Upstone
 
-## Product Developer |  Native & Web Apps | Interested in Graphics and UX
+## Product Developer at Pugpig | Native & Web Apps | Graphics, UX and Art
 
-Run `npx zachupstone` for my digital business card. Find my website <a href='https://zachupstone.com/'>here</a>.
+Run `npx zachupstone` for my digital business card, or have a look at my website <a href='https://zachupstone.com/'>here</a>.
+
+Most of what's on here is personal projects, if interested have a look <a href='https://zachupstone.com/#/projects'>here</a>. Right now I'm mainly working on <a href='https://zachupstone.com/#/walkanywhere-app'>WalkAnywhere</a>, an iOS and Android app where you plan a route anywhere and your everyday steps move you along it.
+
+I work at <a href='https://www.pugpig.com/'>Pugpig</a> on the iOS, Android and web apps that over 100 publications use to put out their content. Lately I've been rewriting our iOS code for Liquid Glass, building an in-app live audio experience for Android and iOS and migrating our codebases to TypeScript.
 
 Technologies & Tools I use:
 
 - **Native Apps:** Swift, SwiftUI, Objective-C, Kotlin, Java
-- **Frontend:** Vue, React, Angular, JavaScript, TypeScript, SASS
-- **Backend:** Vercel, PHP, Node.js, Express
-
-- **Database:** MySQL, Prisma
-- **Other languages:** C, C#, C++, Python
-- **Other Tools:** Docker, Git, Bitbucket, Jira
+- **Frontend:** Vue, React, Angular, TypeScript, JavaScript, SASS
+- **Backend:** PHP, Node.js, Express, FastAPI, Vercel
+- **Other languages:** C, C++, C#, Python
+- **Other Tools:** Docker, Git, Selenium, Jira, AWS
 
 ## My Stats
 
